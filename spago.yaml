@@ -1,0 +1,22 @@
+package:
+  dependencies:
+    - arraybuffer
+    - arraybuffer-types
+    - bifunctors
+    - console
+    - effect
+    - either
+    - enums
+    - exceptions
+    - foldable-traversable
+    - foreign
+    - maybe
+    - prelude
+    - quickcheck
+    - simple-json
+    - strings
+  name: pako
+workspace:
+  extraPackages: {}
+  packageSet:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.4-20220921/packages.json
